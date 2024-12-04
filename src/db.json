@@ -1,0 +1,63 @@
+
+{
+    "pizzas": [
+      {
+        "id": "1",
+        "image": "https://www.thecountrycook.net/wp-content/uploads/2022/05/1st-image-Smoked-Pepperoni-Pizza-copy-1393x2048.jpg"        
+        ,"name": "Pepperoni Pizza",
+        "price": "260/-",
+        "description": "Amazing Pepperoni Pizza made at a wooden oven to enhance the natural taste of the ingredient used. Topped with hand-picked parsley and basil leafs.",
+        "custom": "Can be customized"
+      },
+      {
+        "id" : "2"
+        ,"imag": "https://storeassets.im-cdn.com/media-manager/rkskitchen6/p643ap1PRHCgly1dGlPy_Pizza-1200x900-1_0x0_webp.jpg"
+        ,"name": "Veg Load Pizza",
+        "price": 269,
+        "description": "Amazing Veg Load Pizza made at a wooden oven to enhance the natural taste of the ingredient used. Topped with hand-picked parsley and basil leafs.",
+        "custom": "Can be customized"
+        
+      },
+      {
+        "id": "3",
+        "image": "https://www.healthyseasonalrecipes.com/wp-content/uploads/2023/07/eggplant-pizza-022-2.jpg",
+        "name": "Egg Pizza",
+        "price": "150/-",
+        "description": "Amazing Egg Pizza made at a wooden oven to enhance the natural taste of the ingredient used. Topped with hand-picked parsley and basil leafs.",
+        "custom": "Can be customized"
+      },
+      {
+        "id": "4",
+        "image": "https://www.healthyseasonalrecipes.com/wp-content/uploads/2023/07/eggplant-pizza-022-2.jpg",
+        "name": "Eggplant Pizza",
+        "price": "250/-",
+        "description": "Amazing Eggplant Pizza made at a wooden oven to enhance the natural taste of the ingredient used. Topped with hand-picked parsley and basil leafs.",
+        "custom": "Can be customized"
+      },
+      {
+        "id": "5",
+        "image": "https://www.thursdaynightpizza.com/wp-content/uploads/2021/05/finished-without-chives_STAMP.png",
+        "name": "Mushroom Pizza",
+        "price": "235/-",
+        "description": "Amazing Mushroom Pizza made at a wooden oven to enhance the natural taste of the ingredient used. Topped with hand-picked parsley and basil leafs.",
+        "custom": "Cannot be customized"
+      },
+      {
+        "id": "6",
+        "image": "https://c.ndtvimg.com/2020-07/ds980vng_pizza_625x300_07_July_20.jpg",
+        "name": "Mixed Veg/Non-Veg Pizza",
+        "price": "280/-",
+        "description": "Amazing Mixed Veg/Non-Veg Pizza made at a wooden oven to enhance the natural taste of the ingredient used. Topped with hand-picked parsley and basil leafs.",
+        "custom": "Can be customized(according to variety of veggie/meat)"
+      },
+      {
+        "id": "7",
+        "image": "https://i0.wp.com/heavenlyhunger.in/wp-content/uploads/2024/02/d026cf1e-135d-4f96-b11e-a424d2597c0d.jpeg?fit=1024%2C1024&ssl=1",
+        "name": "Cheesy Corn Pizza",
+        "price": "255/-",
+        "description": "Amazing Cheesy Corn Pizza made at a wooden oven to enhance the natural taste of the ingredient used. Topped with hand-picked parsley and basil leafs.",
+        "custom": "Can be customized"
+      }
+    ]
+  }
+  
